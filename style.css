@@ -302,11 +302,10 @@ main{
         font-size: 20px;
     }
     .menu{
-        display: flex;
-        flex-direction: column;
+        display: none;
     }
     .home{
-        margin: 100px auto;
+        margin: 50px auto;
         display: grid;
         grid-template-columns: repeat(1,1fr);
         grid-column-gap: 20px;
